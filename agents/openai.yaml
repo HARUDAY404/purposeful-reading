@@ -1,0 +1,4 @@
+interface:
+  display_name: "目标导向共读"
+  short_description: "先建立全书与小节框架，再选择精读、核对论证，并围绕实际问题整合多本书"
+  default_prompt: "使用 $purposeful-reading 陪我读这本书：先判断用途并建立章节导航，再按我的目标选择精读。"
